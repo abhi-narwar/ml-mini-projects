@@ -137,14 +137,6 @@
 
 ---
 
-# ⚡ DAY 1 TASK (START NOW)
-
-- Solve 2 Array Questions on LeetCode  
-- Install Django and create project  
-- Create GitHub repository  
-
----
-
 # 🚀 FINAL NOTE
 - Skills > Degree  
 - Consistency > Motivation  
