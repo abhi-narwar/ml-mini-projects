@@ -64,7 +64,9 @@ Focus only on these topics:
 - Sorting Algorithms
 - Two Pointers
 - Sliding Window
-- Basic Recursion
+- Recursion
+- Greedy
+- Trees
 
 ### Practice
 
