@@ -1,324 +1,233 @@
-# 🚀 Placement Roadmap (₹6 LPA → ₹20+ LPA)
+# 🚀 Minimum Skills to Crack Service-Based & Mid-Level Companies (6–20 LPA)
 
-> **Goal:** Crack Software Engineer, Python Backend Developer, AI Engineer (Fresher), and ML Engineer (Entry-Level) roles.
+> **Goal:** Crack fresher Software Engineer roles in companies like **TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, HCLTech, Deloitte**, and similar organizations.
 
----
-
-# 📚 Phase 1: Programming
-
-## 🐍 Python ⭐⭐⭐⭐⭐
-
-* Variables
-* Data Types
-* Operators
-* Conditional Statements
-* Loops
-* Functions
-* Modules & Packages
-* File Handling
-* Exception Handling
-* Object-Oriented Programming (Basics)
+> ⚠️ **Note:** This roadmap contains only the **minimum required skills**. No unnecessary technologies or advanced topics are included.
 
 ---
 
-# 🗄️ Phase 2: SQL ⭐⭐⭐⭐⭐
+# 🐍 1. Python ⭐⭐⭐⭐⭐
 
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* LIMIT
-* Aggregate Functions
-* JOINS
-* Subqueries
-* Common Table Expressions (CTE)
-* Window Functions
-* Indexes
+Learn the following topics:
 
----
-
-# 🧠 Phase 3: Data Structures & Algorithms ⭐⭐⭐⭐⭐
-
-## Topics
-
-* Arrays
-* Strings
-* HashMap
-* Stack
-* Queue
-* Linked List
-* Trees
-* Heap
-* Binary Search
-* Sliding Window
-* Two Pointers
-* Recursion
-* Backtracking
-* Dynamic Programming (Basic)
-
-### 🎯 Practice Goal
-
-* 150–200 LeetCode Problems
-* Focus on Easy & Medium Questions
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- File Handling
+- Exception Handling
+- Object-Oriented Programming (OOP)
+- Modules & Packages
 
 ---
 
-# 💡 Phase 4: Object-Oriented Programming ⭐⭐⭐⭐⭐
+# 🗄️ 2. SQL ⭐⭐⭐⭐⭐
 
-* Classes
-* Objects
-* Inheritance
-* Polymorphism
-* Encapsulation
-* Abstraction
+Master these SQL concepts:
 
----
-
-# 🗃️ Phase 5: Database Management System ⭐⭐⭐⭐
-
-* ER Diagram
-* Primary Key
-* Foreign Key
-* Normalization
-* Transactions
-* ACID Properties
-* Indexing
-* Joins
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- JOINS
+- Subqueries
+- Basic Window Functions
+  - ROW_NUMBER()
+  - RANK()
+- CREATE
+- INSERT
+- UPDATE
+- DELETE
 
 ---
 
-# ⚙️ Phase 6: Operating System ⭐⭐⭐⭐
+# 💻 3. Data Structures & Algorithms (DSA) ⭐⭐⭐⭐⭐
 
-* Processes
-* Threads
-* CPU Scheduling
-* Deadlocks
-* Memory Management
+Focus only on these topics:
 
----
+- Arrays
+- Strings
+- HashMap
+- Stack
+- Queue
+- Linked List
+- Binary Search
+- Sorting Algorithms
+- Two Pointers
+- Sliding Window
+- Basic Recursion
 
-# 🌐 Phase 7: Computer Networks ⭐⭐⭐
+### Practice
 
-* OSI Model
-* TCP/IP
-* HTTP
-* HTTPS
-* DNS
-* REST API Basics
-
----
-
-# 🌿 Phase 8: Git & GitHub ⭐⭐⭐⭐⭐
-
-* Clone
-* Commit
-* Push
-* Pull
-* Branch
-* Merge
-* Pull Request
+- Solve **80–120 Easy & Medium** problems on LeetCode or GeeksforGeeks.
 
 ---
 
-# 🚀 Phase 9: Backend Development ⭐⭐⭐⭐⭐
+# 🏛️ 4. Object-Oriented Programming (OOP) ⭐⭐⭐⭐☆
 
-## FastAPI (Recommended)
+Understand:
 
-* REST APIs
-* CRUD Operations
-* Authentication (JWT)
-* PostgreSQL Integration
-* File Upload
-* API Testing
-
----
-
-# 🎨 Phase 10: Frontend Development ⭐⭐⭐
-
-## HTML
-
-## CSS
-
-## JavaScript
-
-## React (Basic → Intermediate)
-
-* Components
-* Props
-* State
-* Hooks
-* API Integration
-* Routing
+- Class
+- Object
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
 
 ---
 
-# 🤖 Phase 11: Machine Learning Basics ⭐⭐⭐
+# 🛢️ 5. Database Management System (DBMS) ⭐⭐⭐⭐☆
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Linear Regression
-* Logistic Regression
-* Decision Tree
-* Random Forest
+Learn:
 
----
-
-# 🐳 Phase 12: Docker ⭐⭐⭐
-
-* Images
-* Containers
-* Dockerfile
-* Docker Compose (Basic)
+- Primary Key
+- Foreign Key
+- Normalization (1NF–3NF)
+- ACID Properties
+- Transactions
+- Indexing
+- Joins
 
 ---
 
-# ☁️ Phase 13: AWS Basics ⭐⭐
+# ⚙️ 6. Operating System (OS) ⭐⭐⭐⭐☆
 
-* EC2
-* S3
+Study:
 
----
-
-# 🐧 Phase 14: Linux ⭐⭐⭐
-
-* File System Commands
-* Permissions
-* SSH
-* Package Management
+- Process
+- Thread
+- CPU Scheduling
+- Deadlock
+- Paging
+- Virtual Memory
 
 ---
 
-# 💼 Phase 15: Projects ⭐⭐⭐⭐⭐
+# 🌐 7. Computer Networks (CN) ⭐⭐⭐☆☆
 
-### Project 1
+Know the basics:
 
-**Python + FastAPI + PostgreSQL**
-
-**Features**
-
-* JWT Authentication
-* CRUD APIs
-* Database Integration
-
----
-
-### Project 2
-
-**Machine Learning Project**
-
-**Ideas**
-
-* House Price Prediction
-* Student Performance Prediction
-* Customer Churn Prediction
+- HTTP vs HTTPS
+- TCP vs UDP
+- IP Address
+- DNS
+- OSI Model
+- TCP/IP Model
 
 ---
 
-### Project 3
+# 🌿 8. Git ⭐⭐⭐☆☆
 
-**Full Stack CRUD Application**
+Essential Git Commands:
 
-**Tech Stack**
-
-* React
-* FastAPI
-* PostgreSQL
-
----
-
-# 📄 Phase 16: Resume & Interview Preparation
-
-* ATS-Friendly Resume
-* GitHub Portfolio
-* LinkedIn Profile
-* HR Interview Preparation
-* Technical Mock Interviews
+```bash
+git init
+git clone
+git add
+git commit
+git push
+git pull
+git branch
+git merge
+```
 
 ---
 
-# 📖 Recommended Learning Resources
+# 📂 9. Build One Strong Project ⭐⭐⭐⭐⭐
 
-* Python Documentation
-* FastAPI Documentation
-* React Documentation
-* PostgreSQL Documentation
-* Docker Documentation
-* AWS Skill Builder
-* LeetCode
-* GeeksforGeeks
-* NeetCode
+Create **one well-built project** using:
 
----
+- Python + SQL
+- Django + SQL
+- Flask + SQL
 
-# 🎯 Target Companies
-
-## ₹6–10 LPA
-
-* TCS Digital
-* Infosys
-* Cognizant
-* Accenture
-* Capgemini
-* HCLTech
-* Wipro
-* LTIMindtree
+> Be able to explain:
+>
+> - Problem Statement
+> - Features
+> - Database Design
+> - Workflow
+> - Challenges
+> - Future Improvements
 
 ---
 
-## ₹10–20+ LPA
+# 🧠 10. Aptitude ⭐⭐⭐⭐⭐
 
-* Deloitte
-* IBM
-* Oracle
-* Publicis Sapient
-* Walmart Global Tech
-* Juspay
-* BrowserStack
-* Product Startups
-* AI Startups
+Prepare these topics:
 
----
-
-# ✅ Final Checklist
-
-* [ ] Python
-* [ ] SQL
-* [ ] Data Structures & Algorithms
-* [ ] Object-Oriented Programming
-* [ ] Database Management System
-* [ ] Operating System
-* [ ] Computer Networks
-* [ ] Git & GitHub
-* [ ] FastAPI
-* [ ] PostgreSQL
-* [ ] React
-* [ ] Machine Learning Basics
-* [ ] Docker
-* [ ] AWS Basics
-* [ ] Linux Basics
-* [ ] Three Strong Projects
-* [ ] ATS-Friendly Resume
-* [ ] LinkedIn Profile
-* [ ] GitHub Portfolio
-* [ ] Mock Interviews
+- Percentages
+- Profit & Loss
+- Ratio & Proportion
+- Time & Distance
+- Number System
+- Probability
+- Logical Reasoning
+- Seating Arrangement
 
 ---
 
-# 💰 Salary Roadmap
+# 🎯 Companies You Can Target
 
-| Preparation Level | Expected Salary |
-| ----------------- | --------------: |
-| Foundation        |        ₹6–8 LPA |
-| Good              |       ₹8–12 LPA |
-| Strong            |      ₹12–16 LPA |
-| Excellent         |     ₹16–20+ LPA |
+After completing this roadmap, you'll be prepared for fresher roles in:
+
+- ✅ TCS
+- ✅ Infosys
+- ✅ Wipro
+- ✅ Cognizant
+- ✅ Accenture
+- ✅ Capgemini
+- ✅ HCLTech
+- ✅ Deloitte
+- ✅ Tech Mahindra
+- ✅ LTIMindtree
+- ✅ Mphasis
+- ✅ IBM
+- ✅ DXC Technology
+- ✅ Hexaware
+- ✅ Birlasoft
+- ✅ Persistent Systems
+- ✅ CGI
+- ✅ UST
+- ✅ Coforge
+- ✅ Sonata Software
+- ✅ And many other service-based and mid-level product companies.
 
 ---
 
-# 🏆 Success Formula
+# ❌ NOT Mandatory for Freshers
+
+These technologies are **NOT required** to crack most fresher Software Engineer roles in service-based companies:
+
+- ❌ React
+- ❌ Angular
+- ❌ Node.js
+- ❌ Docker
+- ❌ Kubernetes
+- ❌ AWS
+- ❌ Azure
+- ❌ Google Cloud
+- ❌ Machine Learning
+- ❌ Artificial Intelligence
+- ❌ Deep Learning
+- ❌ Data Science
+- ❌ DevOps
+- ❌ Microservices
+
+You can learn these later to increase your salary and career growth.
+
+---
+
+# 📌 Final Roadmap
 
 ```
 Python
@@ -327,27 +236,27 @@ SQL
       ↓
 DSA
       ↓
-OOP + DBMS + OS + CN
+OOP
       ↓
-Git & GitHub
+DBMS
       ↓
-FastAPI + PostgreSQL
+Operating System
       ↓
-React
+Computer Networks
       ↓
-Machine Learning Basics
+Git
       ↓
-Docker + AWS + Linux
+One Strong Project
       ↓
-3 Industry-Level Projects
+Aptitude
       ↓
-Resume + Mock Interviews
-      ↓
-Apply Daily (Off-Campus + On-Campus)
+Placement
 ```
 
 ---
 
-# 🎉 Final Goal
+# 🎯 Final Goal
 
-Become an **industry-ready Software Engineer, Python Backend Developer, AI Engineer, or ML Engineer** capable of cracking **₹6–20+ LPA** fresher roles through strong fundamentals, practical projects, and consistent interview preparation.
+If you master these **10 core skills**, consistently practice coding, prepare aptitude, and confidently explain your project, you'll have the foundation needed to compete for fresher Software Engineer roles in **6–20 LPA** hiring across major service-based companies and many mid-level product companies.
+
+> **Focus on mastering the fundamentals, not collecting technologies.**
