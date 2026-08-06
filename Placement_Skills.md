@@ -1,4 +1,13 @@
 
+
+
+# 🚀 Minimum Skills to Crack Service-Based & Mid-Level Companies (6–20 LPA)
+
+> **Goal:** Crack fresher Software Engineer roles in companies like **TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, HCLTech, Deloitte**, and similar organizations.
+
+> ⚠️ **Note:** This roadmap contains only the **minimum required skills**. No unnecessary technologies or advanced topics are included.
+
+---
 to become an engineer--
 
 - Understand a problem deeply.
@@ -8,15 +17,7 @@ to become an engineer--
 - Implement it.
 - Test it.
 - Improve it.
-
-# 🚀 Minimum Skills to Crack Service-Based & Mid-Level Companies (6–20 LPA)
-
-> **Goal:** Crack fresher Software Engineer roles in companies like **TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, HCLTech, Deloitte**, and similar organizations.
-
-> ⚠️ **Note:** This roadmap contains only the **minimum required skills**. No unnecessary technologies or advanced topics are included.
-
----
-
+  
 # 🐍 1. Python ⭐⭐⭐⭐⭐
 
 Learn the following topics:
