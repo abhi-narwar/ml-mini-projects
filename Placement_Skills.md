@@ -1,3 +1,14 @@
+
+to become an engineer--
+
+- Understand a problem deeply.
+- Break it into smaller parts.
+- Think logically.
+- Design a solution.
+- Implement it.
+- Test it.
+- Improve it.
+
 # 🚀 Minimum Skills to Crack Service-Based & Mid-Level Companies (6–20 LPA)
 
 > **Goal:** Crack fresher Software Engineer roles in companies like **TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini, HCLTech, Deloitte**, and similar organizations.
