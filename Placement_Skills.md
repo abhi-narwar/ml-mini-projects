@@ -54,19 +54,28 @@ Master these SQL concepts:
 
 Focus only on these topics:
 
-- Arrays
-- Strings
-- HashMap
-- Stack
-- Queue
-- Linked List
-- Binary Search
-- Sorting Algorithms
-- Two Pointers
-- Sliding Window
-- Recursion
-- Greedy
-- Trees
+✅ Arrays
+✅ Strings
+✅ HashMap
+✅ Stack
+✅ Queue
+✅ Linked List
+✅ Binary Search
+✅ Sorting Algorithms
+✅ Two Pointers
+✅ Sliding Window
+✅ Recursion
+✅ Greedy
+✅ Trees
+
+✅ Heaps (Priority Queue)
+✅ Graphs (BFS, DFS, Topological Sort, Union-Find)
+✅ Dynamic Programming (Basic → Medium)
+✅ Backtracking
+✅ Trie
+✅ Prefix Sum
+✅ Monotonic Stack & Monotonic Queue
+✅ Intervals
 
 ### Practice
 
