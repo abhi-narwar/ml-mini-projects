@@ -1,3 +1,6 @@
+# 🛣️ Placement Roadmap
+
+```text
 Programming (Python)
         ↓
 SQL
@@ -20,4 +23,5 @@ Aptitude
         ↓
 Interview Communication
         ↓
-Placement
+🎉 Placement
+```
